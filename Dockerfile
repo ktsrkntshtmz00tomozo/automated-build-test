@@ -1,3 +1,3 @@
-RFOM dockersamples/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="tmZ"
 
